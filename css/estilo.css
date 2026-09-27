@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+/* Oiii */
+
 * {
     box-sizing: border-box;
 }
@@ -11,7 +13,8 @@ body {
 
 .navbar {
     display: flex;
-    flex-flow: row wrap height: 100px;
+    flex-flow: row wrap;
+    height: 100px;
     background: white;
     justify-content: center;
     align-items: center;
